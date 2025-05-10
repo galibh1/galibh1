@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Galib Hasan</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=galibh1&label=Profile%20views&color=0e75b6&style=flat" alt="galibh1" /> </p>
+
 - 📫 How to reach me **galibh300@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
