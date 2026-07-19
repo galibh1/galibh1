@@ -66,11 +66,6 @@ I am a **Full-Stack Web Developer** based in **Dhaka, Bangladesh**, focused on b
   <img width="70%" src="https://streak-stats.demolab.com?user=galibh1&theme=tokyonight&hide_border=true" alt="Galib's GitHub contribution streak" />
 </div>
 
-## Contribution Activity
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=galibh1&theme=github-light&hide_border=true&area=true" alt="Galib's GitHub activity graph" />
-</div>
 
 ## GitHub Contributions
 
