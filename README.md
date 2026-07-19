@@ -2,7 +2,7 @@
 
 # Hey there! 👋 I'm Galib Hasan Alvee
 
-### 💻 Full Stack Web Developer | MERN Stack | Next.js Developer
+### 💻 Full Stack Web Developer 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Galib%20Hasan%20Alvee%20&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
 
