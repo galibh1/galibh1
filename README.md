@@ -1,168 +1,100 @@
-<div align="center">
-
-
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Galib%20Hasan%20Alvee%20&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js;TypeScript+Enthusiast;Always+Learning+New+Technologies" />
-
-# Hey there! 👋 I'm Galib Hasan Alvee
-### 💻 Full Stack Web Developer 
-
+<div data-importer="image" align="center">
+  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
----
+###
 
-## 👨‍💻 About Me
-
-I'm **Galib Hasan Alvee**, a passionate **Full Stack Web Developer** from **Dhaka, Bangladesh** 🇧🇩.
-
-I enjoy building modern, responsive, and scalable web applications using the latest JavaScript technologies. I love learning new tools, solving real-world problems, and continuously improving my development skills.
-
-- 🌱 Currently learning **React Native**, **GraphQL**, **Docker**, and **AWS**
-- 💼 Building Full Stack Applications with **React**, **Next.js**, **Node.js**, and **PostgreSQL**
-- 🚀 Exploring modern backend architecture with **Prisma**
-- 📚 Always learning new technologies and best practices
-- 💬 Ask me about **React, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, Prisma**
-- ⚡ Fun Fact: I enjoy turning ideas into beautiful and functional web applications.
-
----
-
-## 📍 Contact
-
-<p align="left">
-
-📍 **Location:** Dhaka, Bangladesh
-
-📧 **Email:** galibh300@gmail.com
-
-
-
-</p>
-
----
-
-## 🚀 Current Activities
-
-- 🔭 Working on Full Stack Web Applications
-- 🌱 Learning React Native & GraphQL
-- 🐳 Exploring Docker and Cloud Deployment
-- ⚡ Improving Backend Development with Prisma & PostgreSQL
-- 📖 Practicing Data Structures & System Design
-- 💼 Building Personal Projects to strengthen my portfolio
-
----
-
-# 💻 Tech Stack
-
-<div align="center">
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nextjs,vite" />
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,firebase" />
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm,docker,aws" />
-
+<div data-importer="socials" align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
 </div>
 
----
+###
 
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/galibh1">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-
-
-<a href="mailto:galibh300@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=galibh1&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galibh1&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=galibh1.galibh1&"  />
 </div>
 
----
+###
 
-# 🔥 GitHub Streak
+<h1 data-importer="text" align="center">hey there 👋 I'm Galib Hasan Alvee</h1>
 
-<div align="center">
+###
 
-<img src="https://streak-stats.demolab.com?user=galibh1&theme=tokyonight&hide_border=true"/>
+<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
 
+###
+
+<p data-importer="text" align="left">I'm Galib Hasan Alvee  from Dhaka, Bangladesh<br><br>👋 Hi, I’m @galibh1<br>🖥️ I’m currently working on React.js, Next.js, Typescript for frontend development.<br>🗄️ Using Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, and Prisma for the backend.<br>🛠️ I’m currently learning React Native, GraphQL, Docker and AWS.<br>💬 Ask me about Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL).</p>
+
+###
+
+<h3 data-importer="text" align="left">🛠 Language and tools</h3>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
----
+###
 
-# 🏆 GitHub Trophies
+<h3 data-importer="text" align="left">🔥   My Stats :</h3>
 
-<div align="center">
+###
 
-<img src="https://github-profile-trophy.vercel.app/?username=galibh1&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/galibh1/galibh1/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/galibh1/galibh1/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
----
+###
 
-# 📈 Contribution Graph
+<img data-importer="snake" src="https://raw.githubusercontent.com/galibh1/galibh1/snake-output/snake.svg" alt="Snake animation" />
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=galibh1&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/galibh1/galibh1/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# ✨ Quote of the Day
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-![](https://komarev.com/ghpvc/?username=galibh1&color=blueviolet&style=for-the-badge)
-
-</div>
+###
