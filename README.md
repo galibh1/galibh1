@@ -83,3 +83,87 @@ I am a **Full-Stack Web Developer** based in **Dhaka, Bangladesh**, focused on b
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=110&section=footer" alt="Footer banner" />
 </p>
+
+
+
+
+
+
+
+
+
+//////
+# 📈 Contribution Activity Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hasibur14&bg_color=050f02&color=a4c62f&line=18a900&point=a4c62f&area=true&area_color=18a900&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hasibur14/Hasibur14/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hasibur14/Hasibur14/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Hasibur14/Hasibur14/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+## 💼 What I Offer
+
+<div align="center">
+
+| 🎯 Area | 💡 Expertise |
+|:---|:---|
+| 🖥️ **Frontend** | React, Next.js, TypeScript, TailwindCSS, Redux |
+| ⚙️ **Backend** | Node.js, Express.js, REST APIs, Python |
+| 🗄️ **Database** | MongoDB, PostgreSQL, Supabase, Firebase |
+| 🚀 **DevOps** | VPS, cPanel, Vercel, Netlify, Git & GitHub |
+| 🎨 **Design** | Figma, Adobe Illustrator, Photoshop |
+| 🏗️ **Architecture** | System Design, Scalable & Maintainable Solutions |
+
+</div>
+
+---
+
+## ☕ Support My Work
+
+<div align="center">
+
+<br/>
+
+> *"If you find my projects helpful or enjoy my work, consider buying me a coffee.*
+> *It keeps me fueled and building amazing things!"* 🚀
+
+<br/>
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/hasib14)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Dev Quote of the Day
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
+
+<br/>
+
+**✦ Thanks for stopping by — let's build something remarkable together ✦**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a4c62f,40:18a900,70:0f3300,100:0a1f00&height=140&section=footer&text=Let's%20Build%20Something%20Remarkable&fontSize=22&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%"/>
+
+</div>
+
