@@ -1,105 +1,109 @@
-
-<div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
-###
+<div align="center">
 
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://youtube.com/@YOUR_CHANNEL">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+<a href="https://x.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
 </div>
 
-###
-
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=galibh1.galibh1&"  />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=galibh1.galibh1" />
 </div>
 
-###
+<h1 align="center">Hey there 👋 I'm Galib Hasan Alvee</h1>
 
-<h1 data-importer="text" align="center">hey there 👋 I'm Galib Hasan Alvee</h1>
+<h3 align="center">Full Stack Developer | CSE Student | Bangladesh 🇧🇩</h3>
 
-###
+---
 
-<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
+## 👨‍💻 About Me
 
-###
+I'm **Galib Hasan Alvee** from **Dhaka, Bangladesh**
 
-<p data-importer="text" align="left">I'm Galib Hasan Alvee  from Dhaka, Bangladesh<br><br>👋 Hi, I’m @galibh1<br>🖥️ I’m currently working on React.js, Next.js, Typescript for frontend development.<br>🗄️ Using Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, and Prisma for the backend.<br>🛠️ I’m currently learning React Native, GraphQL, Docker and AWS.<br>💬 Ask me about Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL).</p>
+- 👋 Hi, I'm **@galibh1**
+- 🖥️ Currently working on **React.js, Next.js & TypeScript** for frontend development
+- 🗄️ Using **Node.js, Express.js, MongoDB, Mongoose, PostgreSQL & Prisma** for backend development
+- 🛠️ Currently learning **React Native, GraphQL, Docker & AWS**
+- 💬 Ask me about **Full Stack Development (React, Next.js, Node.js, Express.js, MongoDB, PostgreSQL)**
 
-###
+---
 
-<h3 data-importer="text" align="left">🛠 Language and tools</h3>
+## 🛠 Languages & Tools
 
-###
+<p align="center">
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cpp,c,docker,cs,figma,git,mysql,nestjs,nodejs,nextjs,npm,php,postgres,react,r,vscode&perline=7" />
+
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/galibh1/galibh1/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=galibh1&theme=tokyonight&hide_border=true" />
+
 </div>
 
-###
+---
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/galibh1/galibh1/snake-output/snake.svg" alt="Snake animation" />
+## 📊 GitHub Stats
 
-###
+<div align="center">
 
-<h3 data-importer="text" align="left">🔥   My Stats :</h3>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=galibh1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-###
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galibh1&layout=compact&theme=tokyonight&hide_border=true" />
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=galibh1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
+---
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/galibh1/galibh1/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/galibh1/galibh1/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=galibh1&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
+
 </div>
 
-###
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=galibh1&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://komarev.com/ghpvc/?username=galibh1&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
