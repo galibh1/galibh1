@@ -4,16 +4,8 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/galibh1">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://youtube.com/@YOUR_CHANNEL">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-
-<a href="https://x.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
 </div>
@@ -24,7 +16,7 @@
 
 <h1 align="center">Hey there 👋 I'm Galib Hasan Alvee</h1>
 
-<h3 align="center">Full Stack Developer | CSE Student | Bangladesh 🇧🇩</h3>
+<h3 align="center">Full Stack Developer | CSE Graduate </h3>
 
 ---
 
