@@ -95,5 +95,6 @@
 ###
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/galibh1/galibh1/snake-output/snake.svg" alt="Snake animation" />
+![Snake Grid](https://github.com/touhidcodes/contribution-snake/blob/output/grid.svg)
 
 ###
