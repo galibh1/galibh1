@@ -52,25 +52,6 @@ I am a **Full-Stack Web Developer** based in **Dhaka, Bangladesh**, focused on b
   <img src="https://skillicons.dev/icons?i=graphql,aws&theme=dark" alt="Technologies currently learning" />
 </p>
 
-## Featured Projects
-
-<div align="center">
-  <a href="https://github.com/galibh1/DevPulse">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=galibh1&repo=DevPulse&theme=tokyonight&hide_border=true" alt="DevPulse repository" />
-  </a>
-  <a href="https://github.com/galibh1/Green_Gladiators">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=galibh1&repo=Green_Gladiators&theme=tokyonight&hide_border=true" alt="Green Gladiators repository" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/galibh1/mr-cafe">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=galibh1&repo=mr-cafe&theme=tokyonight&hide_border=true" alt="MR Cafe repository" />
-  </a>
-  <a href="https://github.com/galibh1/Football-Ticket-Booking-System">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=galibh1&repo=Football-Ticket-Booking-System&theme=tokyonight&hide_border=true" alt="Football Ticket Booking System repository" />
-  </a>
-</div>
 
 ## GitHub Statistics
 
