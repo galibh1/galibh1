@@ -53,6 +53,17 @@ I am a **Full-Stack Web Developer** based in **Dhaka, Bangladesh**, focused on b
 </p>
 
 
+<!--- socials --->
+## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
+
+<div>
+  <p align="left">
+    <a href="https://linkedin.com/in/galibh1" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="touhidcodes" height="30" width="40" /></a>
+    
+  </p>
+</div>
+
+
 ## GitHub Statistics
 
 <div align="center">
