@@ -52,27 +52,38 @@ I am a **Full-Stack Web Developer** based in **Dhaka, Bangladesh**, focused on b
   <img src="https://skillicons.dev/icons?i=graphql,aws&theme=dark" alt="Technologies currently learning" />
 </p>
 
+## Featured Projects
+
+| Project | Overview | Main Technologies | Links |
+| :--- | :--- | :--- | :---: |
+| **DevPulse** | RESTful issue-tracking API with authentication, authorization, and PostgreSQL persistence. | TypeScript, Node.js, Express.js, PostgreSQL | [Repository](https://github.com/galibh1/DevPulse) · [Live API](https://devpulse-project-seven.vercel.app/) |
+| **Green Gladiators** | Responsive cycling-community website with reusable sections and client-side routing. | React, JavaScript, Tailwind CSS, Vite | [Repository](https://github.com/galibh1/Green_Gladiators) |
+| **MR Cafe** | Responsive coffee-shop interface with menu browsing, ordering, and reservation UI. | React, TypeScript, Tailwind CSS, Vite | [Repository](https://github.com/galibh1/mr-cafe) · [Live Site](https://mr-cafe-smoky.vercel.app/) |
+| **Football Ticket Booking System** | Relational database project for matches, users, seats, bookings, and payments. | PostgreSQL, SQL, pgAdmin | [Repository](https://github.com/galibh1/Football-Ticket-Booking-System) |
 
 ## GitHub Statistics
 
 <div align="center">
-  <img
-    width="49%"
-    src="https://raw.githubusercontent.com/galibh1/galibh1/stats-output/stats.svg"
-    alt="Galib's GitHub statistics"
-  />
-  <img
-    width="49%"
-    src="https://raw.githubusercontent.com/galibh1/galibh1/languages-output/languages.svg"
-    alt="Galib's most used languages"
-  />
+  <img width="49%" src="https://raw.githubusercontent.com/galibh1/galibh1/stats-output/stats.svg" alt="Galib's GitHub statistics" />
+  <img width="49%" src="https://raw.githubusercontent.com/galibh1/galibh1/languages-output/languages.svg" alt="Galib's most used languages" />
+</div>
+
+<br />
+
+<div align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=galibh1&theme=tokyonight&hide_border=true" alt="Galib's GitHub contribution streak" />
 </div>
 
 ## Contribution Activity
-<img src="https://raw.githubusercontent.com/galibh1/galibh1/snake-output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=galibh1&theme=tokyo-night&hide_border=true&area=true" alt="Galib's GitHub activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=galibh1&theme=github-light&hide_border=true&area=true" alt="Galib's GitHub activity graph" />
+</div>
+
+## GitHub Contributions
+
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/galibh1/galibh1/snake-output/github-contribution-grid-snake.svg" alt="Galib's GitHub contribution snake animation" />
 </div>
 
 ---
@@ -84,12 +95,3 @@ I am a **Full-Stack Web Developer** based in **Dhaka, Bangladesh**, focused on b
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=110&section=footer" alt="Footer banner" />
 </p>
-
-
-
-
-
-
-
-
-
