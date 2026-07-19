@@ -56,12 +56,16 @@ I am a **Full-Stack Web Developer** based in **Dhaka, Bangladesh**, focused on b
 ## GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=galibh1&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Galib's GitHub statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galibh1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Galib's most used languages" />
-</div>
-
-<div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=galibh1&theme=tokyonight&hide_border=true" alt="Galib's GitHub contribution streak" />
+  <img
+    width="49%"
+    src="https://raw.githubusercontent.com/galibh1/galibh1/stats-output/stats.svg"
+    alt="Galib's GitHub statistics"
+  />
+  <img
+    width="49%"
+    src="https://raw.githubusercontent.com/galibh1/galibh1/languages-output/languages.svg"
+    alt="Galib's most used languages"
+  />
 </div>
 
 ## Contribution Activity
