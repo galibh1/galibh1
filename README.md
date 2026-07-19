@@ -26,7 +26,7 @@ I am a **Full-Stack Web Developer** based in **Dhaka, Bangladesh**, focused on b
 - 💬 Ask me about **React, Next.js, Node.js, Express.js, MongoDB, or PostgreSQL**.
 - 📫 Reach me at **[galibh300@gmail.com](mailto:galibh300@gmail.com)**.
 
-## Tech Stack
+<img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECH STACK:</b>
 
 ### Frontend
 
@@ -63,6 +63,9 @@ I am a **Full-Stack Web Developer** based in **Dhaka, Bangladesh**, focused on b
   </p>
 </div>
 
+
+<!--- statistics --->
+## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
 ## GitHub Statistics
 
