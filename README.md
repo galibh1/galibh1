@@ -67,7 +67,7 @@ I am a **Full-Stack Web Developer** based in **Dhaka, Bangladesh**, focused on b
 <!--- statistics --->
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
-## GitHub Statistics
+
 
 <div align="center">
   <img width="49%" src="https://raw.githubusercontent.com/galibh1/galibh1/stats-output/stats.svg" alt="Galib's GitHub statistics" />
