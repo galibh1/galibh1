@@ -69,8 +69,7 @@ I am a **Full-Stack Web Developer** based in **Dhaka, Bangladesh**, focused on b
 </div>
 
 ## Contribution Activity
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/galibh1/galibh1/snake-output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/galibh1/galibh1/snake-output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=galibh1&theme=tokyo-night&hide_border=true&area=true" alt="Galib's GitHub activity graph" />
