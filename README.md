@@ -1,116 +1,106 @@
 <div align="center">
 
-# Hey there! 👋 I'm Galib Hasan Alvee
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,30:2563EB,70:06B6D4,100:22D3EE&text=Galib%20Hasan%20Alvee&fontColor=ffffff&fontSize=42&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Web%20Developer&descAlignY=58"/>
 
-### 💻 Full Stack Web Developer 
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js;TypeScript+Developer;Always+Learning+Something+New"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Galib%20Hasan%20Alvee%20&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
+<p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js;TypeScript+Enthusiast;Always+Learning+New+Technologies" />
+![](https://img.shields.io/badge/Location-Dhaka,%20Bangladesh-0EA5E9?style=for-the-badge)
 
-</div>
+![](https://img.shields.io/badge/Open%20to-Collaboration-10B981?style=for-the-badge)
 
----
-
-## 👨‍💻 About Me
-
-I'm **Galib Hasan Alvee**, a passionate **Full Stack Web Developer** from **Dhaka, Bangladesh** 🇧🇩.
-
-I enjoy building modern, responsive, and scalable web applications using the latest JavaScript technologies. I love learning new tools, solving real-world problems, and continuously improving my development skills.
-
-- 🌱 Currently learning **React Native**, **GraphQL**, **Docker**, and **AWS**
-- 💼 Building Full Stack Applications with **React**, **Next.js**, **Node.js**, and **PostgreSQL**
-- 🚀 Exploring modern backend architecture with **Prisma**
-- 📚 Always learning new technologies and best practices
-- 💬 Ask me about **React, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, Prisma**
-- ⚡ Fun Fact: I enjoy turning ideas into beautiful and functional web applications.
-
----
-
-## 📍 Contact
-
-<p align="left">
-
-📍 **Location:** Dhaka, Bangladesh
-
-📧 **Email:** galibh300@gmail.com
-
-m
+![](https://img.shields.io/badge/Loves-Clean%20Code-6366F1?style=for-the-badge)
 
 </p>
 
----
-
-## 🚀 Current Activities
-
-- 🔭 Working on Full Stack Web Applications
-- 🌱 Learning React Native & GraphQL
-- 🐳 Exploring Docker and Cloud Deployment
-- ⚡ Improving Backend Development with Prisma & PostgreSQL
-- 📖 Practicing Data Structures & System Design
-- 💼 Building Personal Projects to strengthen my portfolio
-
----
-
-# 💻 Tech Stack
-
-<div align="center">
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nextjs,vite" />
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,firebase" />
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm,docker,aws" />
-
 </div>
+
+---
+
+# 👋 About Me
+
+I'm **Galib Hasan Alvee**, a passionate **Full Stack Web Developer** from **Dhaka, Bangladesh** 🇧🇩.
+
+I enjoy creating fast, responsive, and scalable web applications while continuously learning modern technologies.
+
+- 🚀 Building Full Stack Applications
+- 🌱 Learning React Native, GraphQL, Docker & AWS
+- 💻 Working with React, Next.js, Node.js & PostgreSQL
+- ⚡ Exploring scalable backend architecture using Prisma
+- 📚 Always improving my problem-solving skills
+
+---
+
+# 💼 Current Focus
+
+- 🔭 Developing Full Stack Projects
+- 📱 Learning React Native
+- ☁️ Exploring AWS & Docker
+- 🗄️ PostgreSQL + Prisma
+- 🧠 System Design & DSA
+
+---
+
+# 🛠 Tech Stack
+
+## Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nextjs,vite" />
+</p>
+
+## Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,firebase" />
+</p>
+
+## Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,java,python" />
+</p>
+
+## Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker,aws,npm" />
+</p>
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
-<a href="https://linkedin.com/in/your-profile">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="mailto:galibh300@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://facebook.com/your-profile">
-<img src="https://skillicons.dev/icons?i=facebook" />
+<a href="https://linkedin.com/in/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://twitter.com/your-profile">
-<img src="https://skillicons.dev/icons?i=twitter" />
+<a href="https://facebook.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
-<a href="mailto:your-email@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<a href="https://github.com/galibh1">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://discord.com/users/your-id">
-<img src="https://skillicons.dev/icons?i=discord" />
-</a>
-
-</p>
+</div>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=galibh1&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=galibh1&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galibh1&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galibh1&layout=compact&theme=transparent&hide_border=true"/>
 
 </div>
 
@@ -120,17 +110,7 @@ m
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=galibh1&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=galibh1&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img src="https://streak-stats.demolab.com?user=galibh1&theme=transparent&hide_border=true"/>
 
 </div>
 
@@ -140,27 +120,27 @@ m
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=galibh1&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=galibh1&theme=github-compact&hide_border=true&area=true"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+# 💭 Dev Quote
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/galibh1/galibh1/output/github-contribution-grid-snake-dark.svg"/>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 </div>
 
 ---
 
-# ✨ Quote of the Day
+# 👀 Profile Views
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://komarev.com/ghpvc/?username=galibh1&style=for-the-badge&color=0e75b6)
 
 </div>
 
@@ -170,6 +150,6 @@ m
 
 ### ⭐ Thanks for visiting my profile!
 
-![](https://komarev.com/ghpvc/?username=galibh1&color=blueviolet&style=for-the-badge)
+*"Code. Learn. Build. Repeat."*
 
 </div>
