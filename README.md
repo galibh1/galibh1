@@ -88,7 +88,6 @@ I am a **Full-Stack Web Developer** based in **Dhaka, Bangladesh**, focused on b
 </div>
 
 ---
-
 <div align="center">
   <strong>Open to collaboration, learning opportunities, and meaningful software projects.</strong>
 </div>
