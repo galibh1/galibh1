@@ -2,13 +2,14 @@
 
 
 
-### 💻 Full Stack Web Developer 
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Galib%20Hasan%20Alvee%20&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js;TypeScript+Enthusiast;Always+Learning+New+Technologies" />
 
 # Hey there! 👋 I'm Galib Hasan Alvee
+### 💻 Full Stack Web Developer 
 
 </div>
 
@@ -82,24 +83,14 @@ I enjoy building modern, responsive, and scalable web applications using the lat
 
 <p align="center">
 
-<a href="https://linkedin.com/in/your-profile">
+<a href="https://linkedin.com/in/galibh1">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://facebook.com/your-profile">
-<img src="https://skillicons.dev/icons?i=facebook" />
-</a>
 
-<a href="https://twitter.com/your-profile">
-<img src="https://skillicons.dev/icons?i=twitter" />
-</a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:galibh300@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-<a href="https://discord.com/users/your-id">
-<img src="https://skillicons.dev/icons?i=discord" />
 </a>
 
 </p>
