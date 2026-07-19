@@ -52,14 +52,6 @@ I am a **Full-Stack Web Developer** based in **Dhaka, Bangladesh**, focused on b
   <img src="https://skillicons.dev/icons?i=graphql,aws&theme=dark" alt="Technologies currently learning" />
 </p>
 
-## Featured Projects
-
-| Project | Overview | Main Technologies | Links |
-| :--- | :--- | :--- | :---: |
-| **DevPulse** | RESTful issue-tracking API with authentication, authorization, and PostgreSQL persistence. | TypeScript, Node.js, Express.js, PostgreSQL | [Repository](https://github.com/galibh1/DevPulse) · [Live API](https://devpulse-project-seven.vercel.app/) |
-| **Green Gladiators** | Responsive cycling-community website with reusable sections and client-side routing. | React, JavaScript, Tailwind CSS, Vite | [Repository](https://github.com/galibh1/Green_Gladiators) |
-| **MR Cafe** | Responsive coffee-shop interface with menu browsing, ordering, and reservation UI. | React, TypeScript, Tailwind CSS, Vite | [Repository](https://github.com/galibh1/mr-cafe) · [Live Site](https://mr-cafe-smoky.vercel.app/) |
-| **Football Ticket Booking System** | Relational database project for matches, users, seats, bookings, and payments. | PostgreSQL, SQL, pgAdmin | [Repository](https://github.com/galibh1/Football-Ticket-Booking-System) |
 
 ## GitHub Statistics
 
