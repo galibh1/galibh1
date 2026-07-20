@@ -87,6 +87,7 @@ I am a **Full-Stack Web Developer** based in **Dhaka, Bangladesh**, focused on b
   <img width="100%" src="https://raw.githubusercontent.com/galibh1/galibh1/snake-output/github-contribution-grid-snake.svg" alt="Galib's GitHub contribution snake animation" />
 </div>
 
+
 ---
 <div align="center">
   <strong>Open to collaboration, learning opportunities, and meaningful software projects.</strong>
