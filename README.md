@@ -54,6 +54,7 @@ I am a **Full-Stack Web Developer** based in **Dhaka, Bangladesh**, focused on b
 
 
 <!--- socials --->
+
 ## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
 
 <div>
