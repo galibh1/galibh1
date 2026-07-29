@@ -15,132 +15,86 @@
 
 </div>
 
-
 ## About Me
 
-I am a **Full-Stack Web Developer** based in **Dhaka, Bangladesh**, focused on building responsive, maintainable, and user-friendly web applications.
+I am a **Full-Stack Web Developer** based in **Dhaka, Bangladesh**, focused on building responsive, maintainable, and user-friendly web applications. I enjoy working across the complete development cycle—from designing modern interfaces to developing secure APIs and database-driven backend systems.
 
-I enjoy working across the complete development cycle — from designing modern interfaces to developing secure APIs and database-driven backend systems.
+- 🔭 I am building full-stack applications with **React, Next.js, TypeScript, Node.js, and Express.js**.
+- 🗄️ I work with **MongoDB, PostgreSQL, Mongoose, and Prisma** for data-driven applications.
+- 🌱 I am currently learning and exploring **React Native, GraphQL, Docker, and AWS**.
+- 🧩 I enjoy developing REST APIs, reusable UI components, authentication systems, and database solutions.
+- 💬 Ask me about **React, Next.js, Node.js, Express.js, MongoDB, or PostgreSQL**.
+- 📫 Reach me at **[galibh300@gmail.com](mailto:galibh300@gmail.com)**.
 
-- 🔭 Building applications with **React, Next.js, TypeScript, Node.js, and Express.js**
-- 🗄️ Experienced with **MongoDB, PostgreSQL, Prisma, and Mongoose**
-- 🌱 Currently exploring **React Native, GraphQL, Docker, and AWS**
-- 🧩 Interested in REST APIs, authentication systems, scalable backend architecture, and UI development
-- 💬 Ask me about **React, Next.js, Node.js, Express.js, MongoDB, PostgreSQL**
-- 📫 Email: **galibh300@gmail.com**
+<img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECH STACK:</b>
 
-
-<img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width="35">
-<b> TECH STACK:</b>
-
-
-## Frontend
+### Frontend
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" alt="Frontend skills" />
+</p>
+
+### Backend and Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres,mysql,prisma&theme=dark" alt="Backend and database skills" />
+</p>
+
+### Tools and Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,postman,npm&theme=dark" alt="Development tools" />
+</p>
+
+### Currently Exploring
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=graphql,aws&theme=dark" alt="Technologies currently learning" />
 </p>
 
 
-## Backend & Databases
+<!--- socials --->
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres,mysql,prisma&theme=dark" />
-</p>
+## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
 
-
-## Tools & Platforms
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,postman,npm&theme=dark" />
-</p>
-
-
-## Currently Exploring
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=graphql,aws&theme=dark" />
-</p>
-
-
-
-## 🌐 FOLLOW ME ON SOCIALS
-
-<p align="left">
-
-<a href="https://linkedin.com/in/galibh1">
-<img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
-</a>
-
-</p>
-
-
-
-# 📊 GITHUB STATISTICS & ANALYSIS
-
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=galibh1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galibh1&layout=compact&theme=tokyonight&hide_border=true" />
-
+<div>
+  <p align="left">
+    <a href="https://linkedin.com/in/galibh1" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="touhidcodes" height="30" width="40" /></a>
+    
+  </p>
 </div>
 
 
-<br/>
+<!--- statistics --->
+
+## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
+
 
 
 <div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=galibh1&theme=tokyonight&hide_border=true" />
-
+  <img width="49%" src="https://raw.githubusercontent.com/galibh1/galibh1/stats-output/stats.svg" alt="Galib's GitHub statistics" />
+  <img width="49%" src="https://raw.githubusercontent.com/galibh1/galibh1/languages-output/languages.svg" alt="Galib's most used languages" />
 </div>
 
-
-
-# 🐍 GitHub Contributions
-
+<br />
 
 <div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/galibh1/galibh1/output/github-contribution-grid-snake.svg" />
-
+  <img width="70%" src="https://streak-stats.demolab.com?user=galibh1&theme=tokyonight&hide_border=true" alt="Galib's GitHub contribution streak" />
 </div>
 
 
-
-# 🚀 Featured Skills
+## GitHub Contributions
 
 <div align="center">
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-
+  <img width="100%" src="https://raw.githubusercontent.com/galibh1/galibh1/snake-output/github-contribution-grid-snake.svg" alt="Galib's GitHub contribution snake animation" />
 </div>
-
 
 
 ---
-
-
 <div align="center">
-
-<strong>
-Open to collaboration, learning opportunities, and meaningful software projects.
-</strong>
-
+  <strong>Open to collaboration, learning opportunities, and meaningful software projects.</strong>
 </div>
 
-
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=110&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=110&section=footer" alt="Footer banner" />
 </p>
