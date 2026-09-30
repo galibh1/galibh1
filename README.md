@@ -23,7 +23,7 @@ I am a **Full-Stack Web Developer** based in **Dhaka, Bangladesh**, focused on b
 - 🗄️ I work with **MongoDB, PostgreSQL, Mongoose, and Prisma** for data-driven applications.
 - 🌱 I am currently learning and exploring **React Native, GraphQL, Docker, and AWS**.
 - 🧩 I enjoy developing REST APIs, reusable UI components, authentication systems, and database solutions.
-- 💬 Ask me about **React, Next.js, Node.js, Express.js, MongoDB, or PostgreSQL**.
+- 💬 Ask me about **React, Next.js, Node.js, Express.js, MongoDB and PostgreSQL**.
 - 📫 Reach me at **[galibh300@gmail.com](mailto:galibh300@gmail.com)**.
 
 <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECH STACK:</b>
